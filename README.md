@@ -8,8 +8,8 @@
 
 1. Создать виртуальное окружение и активировать:
     ```bash
-    python -m venv .venv
-    source .venv/bin/activate
+    python -m venv venv
+    source venv/bin/activate
     ```
 
 2. Установить зависимости:
