@@ -6,6 +6,12 @@
 
 ## Установка и запуск
 
+1. Клонировать репозиторий:
+    ```bash
+    git clone https://github.com/t1matoma/gidromet.git
+    cd gidromet
+    ```
+
 1. Создать виртуальное окружение и активировать:
     ```bash
     python -m venv venv
